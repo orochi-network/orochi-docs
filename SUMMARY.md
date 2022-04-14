@@ -10,7 +10,8 @@
 
 ## Fundamentals
 
-* [Projects](fundamentals/projects.md)
+* [Projects](fundamentals/projects/README.md)
+  * [Orochi Decentralized RNG](fundamentals/projects/orochi-decentralized-rng.md)
 * [Members](fundamentals/members.md)
 * [Task Lists](fundamentals/task-lists.md)
 * [Tasks](fundamentals/tasks.md)

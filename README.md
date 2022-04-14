@@ -50,8 +50,8 @@ Follow our handy guides to get started on the basics as quickly as possible:
 
 Learn the fundamentals of MyProduct to get a deeper understanding of our main features:
 
-{% content-ref url="fundamentals/projects.md" %}
-[projects.md](fundamentals/projects.md)
+{% content-ref url="fundamentals/projects/" %}
+[projects](fundamentals/projects/)
 {% endcontent-ref %}
 
 {% content-ref url="fundamentals/members.md" %}
