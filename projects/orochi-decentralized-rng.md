@@ -7,11 +7,25 @@ description: >-
 
 # Orochi Decentralized RNG
 
-## Overview
+## Problem
+
+* There is no trustless source of randomness, even the advanced approach like [drand](https://drand.love)
+* It's cost too munch to feeding and verify a randomness
+* There is no penalty for malfunction participants and colluding parties
+* Most of distributed RNG is built with the fail-stop mechanism it's also no penalty to secret withholding&#x20;
+
+## Architecture
 
 All components will be implemented as a Go module and this approach help other project to reuse our source code.
 
-![Architecture of Orochi đRNG full-node](<../../.gitbook/assets/image (1).png>)
+![Architecture of Orochi đRNG full-node](<../.gitbook/assets/image (1).png>)
+
+###
+
+### Components
+
+* Verifiable Random Function (VRF)\
+  We're still using VRF to draw the randomness, it prevent the distributor to generate&#x20;
 
 ### Verifiable Random Function (VRF)
 

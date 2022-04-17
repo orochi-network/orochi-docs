@@ -5,6 +5,7 @@
 ## 🚀 Projects
 
 * [Orochi Decentralized RNG](projects/orochi-decentralized-rng.md)
+* [Terminologies](projects/terminologies.md)
 
 ## Extras
 
