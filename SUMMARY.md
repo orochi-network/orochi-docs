@@ -1,13 +1,11 @@
 # Table of contents
 
-* [Orochi Network](README.md)
-
 ## 🚀 Projects
 
-* [Orochi Decentralized RNG](projects/orochi-decentralized-rng.md)
-* [Terminologies](projects/terminologies.md)
+* [🐉 Orochi Decentralized RNG](README.md)
+  * [🗒 Terminologies](projects/orochi-decentralized-rng/terminologies.md)
+* [🎆 Orochi Network](projects/orochi-network.md)
 
-## Extras
+## Information
 
-* [Members](extras/members.md)
-* [Keyboard Shortcuts](extras/keyboard-shortcuts.md)
+* [🧙♂ Members](information/members.md)

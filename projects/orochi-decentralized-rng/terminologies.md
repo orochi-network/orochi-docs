@@ -4,7 +4,7 @@ description: >-
   the protocol and all denotes.
 ---
 
-# Terminologies
+# 🗒 Terminologies
 
 <details>
 
