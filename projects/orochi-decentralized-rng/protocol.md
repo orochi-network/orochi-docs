@@ -38,7 +38,7 @@ $$
 
 ### Gossip
 
-To make sure the participant $$P_i$$ won't able to deal all the shares to his colluding party. We will need an improvement. All participant need to draw distribution param $$q_i$$ by using VRF.
+To make sure the participant $$P_i$$ won't able to deal all the shares to his colluding party. We will need an improvement. All participant need to draw distribution param $$q_i$$ by using VRF, each epoch will have different $$q_i$$.
 
 $$
 \{q_i,\pi_{H(x)}\} = f_{SK_i}(H(x))
@@ -50,13 +50,42 @@ $$
 N_i=H(PK_i)
 $$
 
-We have $$f(x) = x * e^{2 pi i \xi x}$$
+We have, share distribution $$Q_{ij}$$ of $$s_{ij}$$ is:
 
-&#x20;
+$$
+Q_{ij} = H(q_i{+\!\!\!\!+\,}j)
+$$
+
+We call $$d_{ij}(N_i)=N_i \oplus Q_{ij}$$ is the distance between node id and share distribution. By using repeating this method we can repeating multicast the share to all nodes in the network randomly and this process is verifiable for all participants.
 
 ### Virtual Voting
 
-Audit
+> **Note:** We need to calculate the duration that is necessary for virtual voting to reach the agreement
 
-Conclusion
+Virtual voting isn't actual voting, it is the assumption of participants based on its knowledge. The gossip process will grow the knowledge of all participant and it will guarantee that the shares of randomness will increasing over the time for each participant.
 
+### Audit
+
+> **Note:** We need using one-way payment enforcing penalty to cheaters
+
+In case there is some dishonest participants, any participants can asked dishonest participant to commit their shares. If the share wasn't committed after the audit phase, the penalty will be applied to the dishonest participants.
+
+### Conclusion
+
+There is two cases,
+
+#### Happy ending
+
+> Note: We need more research on threshold signature and multi-party computation
+
+All participants $$P_i$$ commit all their shares and any on them could reconstruct $$\{r_1, r_2,...,r_i\}$$ and the grant randomness will be call curated
+
+$$
+R = r_1 \oplus r_2 \oplus ... \oplus r_i
+$$
+
+The last process is all participant need to reach the agreement to use threshold signing and multi-party computation to commit the result to blockchain.
+
+#### Bad ending
+
+Not enough shares to reconstruct randomness by any participants, in this case all participant might loss their collateral.
