@@ -12,6 +12,6 @@ description: Orochi Network is a one-stop infrastructure for decentralized gamin
 
 Orochi Decentralized Random Number Generator (Orochi đRNG) is the first PoC of Decentralized Random Number Generator that generates and provides trustless randomness to smart contracts.
 
-{% content-ref url="fundamentals/projects/orochi-decentralized-rng.md" %}
-[orochi-decentralized-rng.md](fundamentals/projects/orochi-decentralized-rng.md)
+{% content-ref url="projects/orochi-decentralized-rng.md" %}
+[orochi-decentralized-rng.md](projects/orochi-decentralized-rng.md)
 {% endcontent-ref %}
