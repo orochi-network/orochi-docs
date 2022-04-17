@@ -38,10 +38,10 @@ $$
 
 ### Gossip
 
-To make sure the participant $$P_i$$ won't able to deal all the shares to his colluding party. We will need an improvement. They need to draw distribution param $$d_i$$ by using VRF.
+To make sure the participant $$P_i$$ won't able to deal all the shares to his colluding party. We will need an improvement. All participant need to draw distribution param $$q_i$$ by using VRF.
 
 $$
-\{d_i,\pi_{H(x)}\} = f_{SK_i}(H(x))
+\{q_i,\pi_{H(x)}\} = f_{SK_i}(H(x))
 $$
 
 We assume that node id of participant is the digest of their public key
@@ -50,7 +50,7 @@ $$
 N_i=H(PK_i)
 $$
 
-Share $$i^{th}$$ will be distributed the part&#x20;
+We have $$f(x) = x * e^{2 pi i \xi x}$$
 
 &#x20;
 
