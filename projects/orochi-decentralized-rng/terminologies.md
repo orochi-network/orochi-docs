@@ -72,14 +72,6 @@ Orochi đRNG will use PVSS to split the randomness into shares. At the genesis o
 
 <details>
 
-<summary>Epoch</summary>
-
-The duration that's necessary to generate a **Grand Randomness**
-
-</details>
-
-<details>
-
 <summary>đRNG</summary>
 
 This term is promoted by Orochi Network to represent for Decentralized RNG.
