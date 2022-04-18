@@ -64,7 +64,7 @@ Assume $$d_{ij}(N_i)=N_i \oplus Q_{ij}$$ is the distance between node id and sha
 
 Virtual voting isn't actual voting, it is the assumption of participants based on its knowledge. The gossip process will grow the knowledge of all participants and it will guarantee that the shares of randomness will increasing over the time for each participant.
 
-### Audit
+### Audit Phase
 
 > **Note:** We need using one-way payment enforcing penalty to cheaters.
 
