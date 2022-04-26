@@ -78,7 +78,7 @@ In case there are some dishonest participants based on current state of all node
 
 > **Note:** We need more research on threshold signature and multi-party computation
 
-All participants $$P_i$$ commit all their shares and any on them could reconstruct $$\{r_1, r_2,...,r_i\}$$ and the grand randomness will be call curated
+All participants $$P_i$$ commit all their shares and any of them could reconstruct $$\{r_1, r_2,...,r_i\}$$ and the grand randomness by using this simple method:
 
 $$
 R = r_1 \oplus r_2 \oplus ... \oplus r_i
