@@ -18,4 +18,4 @@ description: >-
 
 All components will be implemented as a Go module and this approach help other project to reuse our source code.
 
-![Architecture of Orochi đRNG full-node](<.gitbook/assets/image (1).png>)
+![](<.gitbook/assets/image (2).png>)
