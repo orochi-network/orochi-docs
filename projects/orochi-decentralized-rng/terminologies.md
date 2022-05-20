@@ -32,9 +32,9 @@ Who's participate in Orochi đRNG protocol they played two roles **Dealer** and 
 
 <details>
 
-<summary>Public Verifiable Secret Sharing (PVSS)</summary>
+<summary>Publicly Verifiable Secret Sharing (PVSS)</summary>
 
-A mechanism to split secret into share and allows any one to verify the shares of a secret without reveal the secret.
+A mechanism to split secret into share and allows any one to verify the encrypted shares of a secret without reveal the secret.
 
 </details>
 
