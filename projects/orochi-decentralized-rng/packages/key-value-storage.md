@@ -4,7 +4,7 @@ description: >-
   several engines.
 ---
 
-# Key Value Storage
+# 💾 Key Value Storage
 
 ## Interface and implementation
 
