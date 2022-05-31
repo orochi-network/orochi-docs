@@ -68,7 +68,7 @@ Virtual voting isn't actual voting, it is the assumption of participants based o
 
 > **Note:** We need using one-way payment enforcing penalty to cheaters.
 
-In case there are some dishonest participants based on current state of all nodes, any one can asked dishonest participant to commit missing shares. If the share wasn't committed after the audit phase, the penalty will be applied to the dishonest participants.
+In case there are some dishonest participants based on current state of all nodes, anyone can asked dishonest participant to commit missing shares. If the share wasn't committed after the audit phase, the penalty will be applied to the dishonest participants.
 
 > **Note:** We might need Zero Knowledge Proof to improve the performance of Audit Phase
 
@@ -88,4 +88,4 @@ The last process is all participant need to reach the agreement to use threshold
 
 #### Bad ending
 
-Not enough shares to reconstruct randomness by any participants, in this case all participant might loss their collateral.
+Not enough shares to reconstruct the grand randomness by any participants, in this case all participant might loss their collateral.
