@@ -14,4 +14,4 @@
 
 ## Information
 
-* [🧙♂ Members](information/members.md)
+* [🧙♂ 🧙♂ Members](information/members.md)
