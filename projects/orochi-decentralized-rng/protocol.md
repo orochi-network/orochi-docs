@@ -10,6 +10,8 @@ description: >-
 
 ## 🤖 Protocol
 
+![](<../../.gitbook/assets/Screen Shot 2022-07-05 at 14.39.38.png>)
+
 Assuming there are $$n$$ participants (_**validators**_) denoted by $$P_1, P_2, ... P_n$$, each participant plays two roles in our system _**dealer**_ and _**verifier**_. Each participant $$P_i$$ has their own key-pair $$\{sk_i,pk_i\}$$ and the public key $$pk_i$$ is available to all other participants.
 
 ### Draw Phase
@@ -35,7 +37,7 @@ $$
 To prevent the participant $$P_i$$ to deal all of their shares to the colluding party, we require all participants to draw distribution parameter $$q_i$$ by using VRF. Each epoch will have different $$q_i$$, with
 
 $$
-{q*i,\pi*{H(x)}\} = f\_{sk_i}(H(x)).
+\{q_i,\pi_{H(x)}\} = f_{sk_i}(H(x)).
 $$
 
 We assume that the node id of participants is the digest of their public key
