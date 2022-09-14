@@ -80,8 +80,8 @@ The duration that's necessary to generate a **Grand Randomness**
 
 <details>
 
-<summary>Orand</summary>
+<summary>đRNG</summary>
 
-This is a brand of Orochi Decentralized Random Number Generator.
+This term is promoted by Orochi Network to represent for Decentralized RNG.
 
 </details>

@@ -6,7 +6,7 @@ description: >-
 
 # 🤖 Protocol
 
-**Orochi decentralized Random Number Generator** (Orochi đRNG) is a trustless source of randomness. As a system application of Orochi Computation Layer, Orochi đRNG can provide randomness for all distributed applications on Orochi CL, smart contracts on Orochi MetaChain, and smart contracts on supported Layer-1 chains. We present the protocol in the sequences. Deliberate proofs for some properties on the cross-chain randomness of Orochi đRNG such as counter-manipulation, open-sourced transparency, verifiability and high throughput will be published in recognized scientific venues. We have released Orochi đRNG as an open source project. At this stage, Orochi đRNG has already been implemented and under testing at [https://github.com/orochi-network/orochi-drng](https://github.com/orochi-network/orochi-drng).
+**Orand** is a trustless source of randomness. As a system application of **Orochi Computation Layer**, **Orand** can provide randomness for all distributed applications on **Orochi Computation Layer** and smart contracts on supported Layer-1 blockchains. We present the protocol in the sequences. Deliberate proofs for some properties on the cross-chain randomness of **Orand** such as counter-manipulation, open-sourced transparency, verifiability and high throughput will be published in recognized scientific venues. We have released **Orand** as an open source project. At this stage, **Orand** has already been implemented and under testing at [https://github.com/orochi-network/orochimaru](https://github.com/orochi-network/orochi-drng).
 
 ## 🤖 Protocol
 
