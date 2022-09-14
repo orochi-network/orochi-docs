@@ -1,21 +1,17 @@
 ---
-description: >-
-  Orochi đRNG is a component of Orochi Computation Layer that will be the source
-  of trustless randomness. It provides randomness for Orochi Computation Layer
-  and all supported blockchains.
+description: Orochi Network is a one-stop infrastructure for decentralized gaming
 ---
 
-# 🐉 Orochi Decentralized RNG
+# 🎆 Orochi Network
 
-## Problem
+{% hint style="info" %}
+**Good to know:** Orochi Network provides missing components to "run" the game in the decentralized fashion. It covers wide range of needs from user interface to underlying state channel and distributed computing.
+{% endhint %}
 
-* There is no trustless source of randomness, even the advanced approach like [drand](https://drand.love)
-* It's cost too munch to feeding and verify a randomness
-* There is no penalty for malfunction participants and colluding parties
-* Most of distributed RNG is built with the fail-stop mechanism it's also no penalty to secret withholding&#x20;
+## Getting Started
 
-## Architecture
+Orochi Decentralized Random Number Generator (Orochi đRNG) is the first PoC of Decentralized Random Number Generator that generates and provides trustless randomness to smart contracts.
 
-All components will be implemented as a Go module and this approach help other project to reuse our source code.
-
-![](<.gitbook/assets/image (2).png>)
+{% content-ref url="README (1).md" %}
+[README (1).md](<README (1).md>)
+{% endcontent-ref %}
