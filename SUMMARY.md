@@ -3,7 +3,7 @@
 ## 🚀 Projects
 
 * [💕 Orochi Network](README.md)
-* [☢ Orand: Decentralized Random Number Generator](README.md)
+* [☢ Orand: Decentralized Random Number Generator](<README (1).md>)
   * [💟 Contributing Guidelines](projects/orochi-decentralized-rng/contributing-guidelines.md)
   * [🗒 Terminologies](projects/orochi-decentralized-rng/terminologies.md)
   * [🤖 Protocol](projects/orochi-decentralized-rng/protocol.md)

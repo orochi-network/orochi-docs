@@ -27,8 +27,8 @@ description: >-
 
 ## Orochi Computation Layer
 
-{% content-ref url="broken-reference" %}
-[Broken link](broken-reference)
+{% content-ref url="README (1).md" %}
+[README (1).md](<README (1).md>)
 {% endcontent-ref %}
 
 {% content-ref url="projects/orocle-decentralized-oracle.md" %}
@@ -41,4 +41,12 @@ description: >-
 
 {% content-ref url="projects/orosign-on-chain-custodian.md" %}
 [orosign-on-chain-custodian.md](projects/orosign-on-chain-custodian.md)
+{% endcontent-ref %}
+
+{% content-ref url="projects/zkevm-verifiable-evm.md" %}
+[zkevm-verifiable-evm.md](projects/zkevm-verifiable-evm.md)
+{% endcontent-ref %}
+
+{% content-ref url="projects/zkwasm-verifiable-webassembly-runtime.md" %}
+[zkwasm-verifiable-webassembly-runtime.md](projects/zkwasm-verifiable-webassembly-runtime.md)
 {% endcontent-ref %}

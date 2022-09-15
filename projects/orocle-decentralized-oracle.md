@@ -12,7 +12,7 @@ description: >-
 * The sampling process isn't verifiable
 * Oracle work like a third party service, Oracle doesn't accessible during the runtime
 
-## Orocle features
+## Orocle' Features
 
 **Orocle** v1.0 is providing:
 
