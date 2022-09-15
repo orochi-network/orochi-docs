@@ -1,21 +1,44 @@
 ---
 description: >-
-  Orochi đRNG is a component of Orochi Computation Layer that will be the source
-  of trustless randomness. It provides randomness for Orochi Computation Layer
-  and all supported blockchains.
+  We defines the next form of the gaming industry. Orochi Network is the first
+  Computation Layer solution that revamps latency and improve processing
+  performance.
 ---
 
-# 🐉 Orochi Decentralized RNG
+# 💕 Orochi Network
 
-## Problem
+{% hint style="info" %}
+**Good to know:** Orochi Network provides missing components to "run" the game in the decentralized fashion. It covers wide range of needs from trustless randomness to verifiable computation.
+{% endhint %}
 
-* There is no trustless source of randomness, even the advanced approach like [drand](https://drand.love)
-* It's cost too munch to feeding and verify a randomness
-* There is no penalty for malfunction participants and colluding parties
-* Most of distributed RNG is built with the fail-stop mechanism it's also no penalty to secret withholding&#x20;
+## Getting Started
 
-## Architecture
+### Unique selling points:
 
-All components will be implemented as a Go module and this approach help other project to reuse our source code.
+**High performance:** Orochi Network provides semi-native performance with Verifiable WebAssembly Runtime.
 
-![](<.gitbook/assets/image (2).png>)
+**Zero latency:** Orochi Network makes all critical components to be available at the runtime that reduces latency significantly.
+
+**Non-blocking:** Orochi Network terminated third party interactive there is no need for awaiting the third party responses.
+
+**Decentralized:** Orochi Network uses validity proof to secure the network and prove the computation process thus our network doesn't require third party trust.
+
+**Seamless:** Orochi Network has an embedded WebAssembly runtime that can execute arbitrary given WebAssembly opcodes. It doesn't require a unique toolchain to compile a program to be compatible with Orochi Network’s runtime.
+
+## Orochi Computation Layer
+
+{% content-ref url="README (1).md" %}
+[README (1).md](<README (1).md>)
+{% endcontent-ref %}
+
+{% content-ref url="projects/orocle-decentralized-oracle.md" %}
+[orocle-decentralized-oracle.md](projects/orocle-decentralized-oracle.md)
+{% endcontent-ref %}
+
+{% content-ref url="projects/orocom-immutable-ledger-driver.md" %}
+[orocom-immutable-ledger-driver.md](projects/orocom-immutable-ledger-driver.md)
+{% endcontent-ref %}
+
+{% content-ref url="projects/orosign-on-chain-custodian.md" %}
+[orosign-on-chain-custodian.md](projects/orosign-on-chain-custodian.md)
+{% endcontent-ref %}

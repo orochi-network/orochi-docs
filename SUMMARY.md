@@ -3,7 +3,7 @@
 ## 🚀 Projects
 
 * [💕 Orochi Network](README.md)
-* [☢ Orand: Decentralized Random Number Generator](README.md)
+* [☢ Orand: Decentralized Random Number Generator](<README (1).md>)
   * [💟 Contributing Guidelines](projects/orochi-decentralized-rng/contributing-guidelines.md)
   * [🗒 Terminologies](projects/orochi-decentralized-rng/terminologies.md)
   * [🤖 Protocol](projects/orochi-decentralized-rng/protocol.md)
@@ -14,6 +14,7 @@
 * [🪄 Orocle: Decentralized Oracle](projects/orocle-decentralized-oracle.md)
 * [🛰 Orocom: Immutable Ledger Driver](projects/orocom-immutable-ledger-driver.md)
 * [🐋 Orosign: On-chain Custodian](projects/orosign-on-chain-custodian.md)
+* [📟 zkEVM: Verifiable EVM](projects/zkevm-verifiable-evm.md)
 
 ## Information
 
