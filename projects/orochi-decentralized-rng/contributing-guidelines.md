@@ -4,13 +4,13 @@ description: >-
   development community.
 ---
 
-# 💟 Contribution Guide
+# 💟 Contributing Guidelines
 
 Orochi đRNG is an open source project, licensed under Apache License 2.0, the license will maintenance your ownership.
 
 ## Fork it
 
-You might need to navigate to [https://github.com/orochi-network/orochi-drng/fork](https://github.com/orochi-network/orochi-drng/fork) and fork the existing source code to your repo.
+You might need to navigate to [https://github.com/orochi-network/orochimaru/fork](https://github.com/orochi-network/orochimaru/fork) and fork the existing source code to your repo.
 
 ## Check current working progress
 
@@ -24,7 +24,7 @@ You might need to check and pick the right task, <mark style="color:red;">unassi
 
 ## Syncing your project
 
-You might need to add our repo as a remote upstream so you can pull latest changes and sync your repo with [https://github.com/orochi-network/orochi-drng](https://github.com/orochi-network/orochi-drng)
+You might need to add our repo as a remote upstream so you can pull latest changes and sync your repo with [https://github.com/orochi-network/orochimaru](https://github.com/orochi-network/orochimaru)
 
 > **Note:** We're prefer rebase if possible, after pulled new changes please do the rebase.
 
