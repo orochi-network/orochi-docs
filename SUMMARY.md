@@ -15,6 +15,7 @@
 * [🛰 Orocom: Immutable Ledger Driver](projects/orocom-immutable-ledger-driver.md)
 * [🐋 Orosign: On-chain Custodian](projects/orosign-on-chain-custodian.md)
 * [📟 zkEVM: Verifiable EVM](projects/zkevm-verifiable-evm.md)
+* [🦸 zkWASM: Verifiable WebAssembly Runtime](projects/zkwasm-verifiable-webassembly-runtime.md)
 
 ## Information
 
